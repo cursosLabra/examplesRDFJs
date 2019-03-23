@@ -1,0 +1,26 @@
+{
+  "name": "examplesrdfjs",
+  "version": "1.0.0",
+  "description": "Examples using RDF with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cursosLabra/examplesRDFJs.git"
+  },
+  "keywords": [
+    "RDF",
+    "N3"
+  ],
+  "author": "Jose Emilio Labra Gayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cursosLabra/examplesRDFJs/issues"
+  },
+  "homepage": "https://github.com/cursosLabra/examplesRDFJs#readme",
+  "dependencies": {
+    "n3": "^1.0.4"
+  }
+}
